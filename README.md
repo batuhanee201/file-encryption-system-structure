@@ -141,4 +141,4 @@ Always remember:
 For questions or suggestions, please open an issue in the GitHub repository.
 
 ---
-Made with ❤️ by [hardchenry](https://github.com/hardchenry)
+
